@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
-    <line>
-      <![CDATA[createcustomer]]>
-    </line>
   </reporter-output>
-  <suite started-at="2023-09-29T14:14:48 IST" name="Default suite" finished-at="2023-09-29T14:14:48 IST" duration-ms="37">
+  <suite started-at="2023-10-16T14:36:04 IST" name="Default suite" finished-at="2023-10-16T14:36:04 IST" duration-ms="41">
     <groups>
     </groups>
-    <test started-at="2023-09-29T14:14:48 IST" name="Default test" finished-at="2023-09-29T14:14:48 IST" duration-ms="37">
-      <class name="com_actitime_Testscript.Create_Customer">
-        <test-method signature="createcustomer()[pri:0, instance:com_actitime_Testscript.Create_Customer@55b699ef]" started-at="2023-09-29T14:14:48 IST" name="createcustomer" finished-at="2023-09-29T14:14:48 IST" duration-ms="8" status="PASS">
+    <test started-at="2023-10-16T14:36:04 IST" name="Default test" finished-at="2023-10-16T14:36:04 IST" duration-ms="41">
+      <class name="com_actitime_Testscript.maven_project">
+        <test-method signature="editcustomer()[pri:0, instance:com_actitime_Testscript.maven_project@795509d9]" started-at="2023-10-16T14:36:04 IST" name="editcustomer" finished-at="2023-10-16T14:36:04 IST" duration-ms="8" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[createcustomer]]>
-            </line>
           </reporter-output>
-        </test-method> <!-- createcustomer -->
-      </class> <!-- com_actitime_Testscript.Create_Customer -->
+        </test-method> <!-- editcustomer -->
+      </class> <!-- com_actitime_Testscript.maven_project -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
